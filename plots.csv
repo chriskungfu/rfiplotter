@@ -1,31 +1,32 @@
-band,latitude,longitude,sizing
-Unknown,	28.410248, -80.615583,5
-Unknown,	33.525194, 126.545222,5
-Unknown,	40.665301, -74.069020,5
-Unknown,	37.802857, -122.339224,5
-Unknown,	35.445651, 139.688751,5
-Unknown,	39.751793, 140.060775,5
-Unknown,	33.505393, 133.581729,5
-Unknown,	41.793601, 140.705256,5
-Unknown,	38.192023, 15.558627,5
-Unknown,	28.475571, -16.234580,5
-Unknown,	44.400702, 8.870130,5
-Unknown,	53.530129, 9.961668,5
-Unknown,	50.904883, -1.432605,5
-C Band,	29.308433, -94.806930,5
-C Band,	44.144776, 8.887321,5
-Unknown,	43.295890, 5.357338,5
-C / Ka Band,	42.348429, -71.022039,5
-Unknown,	29.935591, -90.058944,5
-Unknown,	29.841232, -89.985838,5
-C Band,	41.362760, 2.184901,5
-Unknown,	43.115505, 5.928203,5
-C Band,	52.384584, 4.897027,5
-C Band,	51.913620, 4.487626,5
-Unknown,	33.748139, -118.276097,5
-C Band,	34.651400, 33.021364,5
-Unknown,	47.628446, -122.381848,5
-Unknown,	38.905449, 1.450011,5
-C Band,	35.893042, 14.513626,5
-C Band,	50.930187, 1.526153,5
+Location,	Band,	Latitude, Longitude,	Incidents
+Cape Canaveral FL,	Unknown,	28.410248, -80.615583,	5
+Jeju Island,	Unknown,	33.525194, 126.545222,	5
+New York NY,	Unknown,	40.665301, -74.069020,	5
+San Francisco CA,	Unknown,	37.802857, -122.339224,	5
+Yokohama Japan,	Unknown,	35.445651, 139.688751,	5
+Akita Japan,	Unknown,	39.751793, 140.060775,	5
+Kochi Japan,	Unknown,	33.505393, 133.581729,	5
+Hakodate Japan,	Unknown,	41.793601, 140.705256,	5
+Messina Italy,	Unknown,	38.192023, 15.558627,	5
+Tenerife,	Unknown,	28.475571, -16.234580,	5
+Genoa Italy,	Unknown,	44.400702, 8.870130,	5
+Hamburg Germany,	Unknown,	53.530129, 9.961668,	5
+Southampton UK,	Unknown,	50.904883, -1.432605,	5
+Port Galveston TX,	C Band,	29.308433, -94.806930,	5
+Gulf of Genoa,	C Band,	44.144776, 8.887321,	5
+Marseille France,	Unknown,	43.295890, 5.357338,	5
+Boston MA,	C / Ka Band,	42.348429, -71.022039,	5
+New Orleans LA,	Unknown,	29.935591, -90.058944,	5
+Naval Base New Orleans,	Unknown,	29.841232, -89.985838,	5
+Barcelona Spain,	C Band,	41.362760, 2.184901,	5
+Toulon,	Unknown,	43.115505, 5.928203,	5
+Amsterdam,	C Band,	52.384584, 4.897027,	5
+Rotterdam,	C Band,	51.913620, 4.487626,	5
+Los Angeles,	Unknown,	33.748139, -118.276097,	5
+Cyprus,	C Band,	34.651400, 33.021364,	5
+Seattle WA,	Unknown,	47.628446, -122.381848,	5
+Ibiza,	Unknown,	38.905449, 1.450011,	5
+Malta,	C Band,	35.893042, 14.513626,	5
+English Channel,	C Band,	50.930187, 1.526153,	5
+
 
